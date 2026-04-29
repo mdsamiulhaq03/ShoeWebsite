@@ -1,4 +1,3 @@
-import React from "react";
 import daraz from "../assets/images/daraz.png";
 import amazon from "../assets/images/amazon.png";
 import shoe from "../assets/images/Shoe.webp";
